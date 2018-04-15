@@ -1,6 +1,6 @@
 # spoofHeadless
 
-Spoofs basic webGl data and few other features unique to headless browsers, so they'll be harder to detect/fingerprint
+WebExtension that spoofs some webGl data and few other features unique to headless browsers, so they'll be harder to detect/fingerprint
 
 * sets navigator.webdriver to false
 * sets navigator.languages to random value
