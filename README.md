@@ -28,3 +28,7 @@ driver.install_addon(extension_path, True)
 driver.get('https://browserleaks.com/webgl')
 driver.quit()
 ```
+
+# TODO
+* implement more webGL functions/extensions
+* find a way to return fake webGl hash for generated canva
