@@ -1,4 +1,4 @@
-# mockWebGL
+# spoofHeadless
 
 Spoofs basic webGl data and few other features unique to headless browsers, so they'll be harder to detect/fingerprint
 
