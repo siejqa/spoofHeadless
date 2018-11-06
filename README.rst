@@ -13,8 +13,8 @@ WebExtension that spoofs some webGl data and few other features unique to headle
 Usage
 -------
 
-1. Zip files
-2. Change archive exntesion to \*.xpi
+1. Zip files from src **zip -rj extension.zip src/\***
+2. Change archive exntesion to \*.xpi **mv exntesion.zip extension.xpi**
 3. Load into webdriver
 
 .. code-block::
