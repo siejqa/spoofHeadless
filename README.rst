@@ -14,7 +14,7 @@ Usage
 -------
 
 1. Zip files from src **zip -rj extension.zip src/\***
-2. Change archive exntesion to \*.xpi **mv exntesion.zip extension.xpi**
+2. Change archive extension to \*.xpi **mv extension.zip extension.xpi**
 3. Load into webdriver
 
 .. code-block::
