@@ -32,7 +32,7 @@ Usage
     driver.get('https://browserleaks.com/webgl')
     driver.quit()
 
-**Tip: for best results use with extension like CanvasBlocker**
+*Tip: for best results use with extension like CanvasBlocker*
 
 -----
 TODO
